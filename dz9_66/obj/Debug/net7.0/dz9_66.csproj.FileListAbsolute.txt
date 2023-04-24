@@ -1,0 +1,15 @@
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\bin\Debug\net7.0\dz9_66.exe
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\bin\Debug\net7.0\dz9_66.deps.json
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\bin\Debug\net7.0\dz9_66.runtimeconfig.json
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\bin\Debug\net7.0\dz9_66.dll
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\bin\Debug\net7.0\dz9_66.pdb
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.csproj.AssemblyReference.cache
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.AssemblyInfoInputs.cache
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.AssemblyInfo.cs
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.csproj.CoreCompileInputs.cache
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.dll
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\refint\dz9_66.dll
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.pdb
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\dz9_66.genruntimeconfig.cache
+C:\Users\admin\YandexDisk\Скриншоты\geekbrains\c#\занятие7\dz9_66\obj\Debug\net7.0\ref\dz9_66.dll
